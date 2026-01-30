@@ -1,8 +1,8 @@
 # vKomari - Cloudflare Worker Edition
 
-Virtual Komari Agent Cluster Management - 虚拟探针集群管理系统 (Cloudflare Worker 版)
+Virtual Komari Agent Cluster Management - 虚拟探针节点 (Cloudflare Worker 版)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/arebotx/cf-vkomari)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kadidalax/cf-vkomari)
 
 ## 项目简介
 
